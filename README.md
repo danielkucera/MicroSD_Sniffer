@@ -15,6 +15,9 @@ Repository Contents
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production file (gerber .zip)
 
+For sale
+-------------------
+I have 50 of them, if you need, I can send you a few for free, just for the price of the post service.
 
 License Information
 -------------------
