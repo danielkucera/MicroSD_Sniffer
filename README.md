@@ -22,10 +22,6 @@ You will also support me by using this service.
 
 Thanks!
 
-Sample
--------------------
-![JLCPCB order](img/sdbreakout-jlcpcb.png)
-
 
 License Information
 -------------------
