@@ -13,15 +13,17 @@ https://github.com/sparkfun/MicroSD_Sniffer
 Repository Contents
 -------------------
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Production** - Production file (gerber .zip)
-
-For sale
--------------------
-I have 50 of them, if you need, I can send you a few for free, just for the price of the post service.
 
 Manufacturing
 -------------------
-You can have it manufactured cheaply via https://jlcpcb.com . Just take the zip in Production folder, upload to JLCPCB and select correct thickness (less than 0.75 mil to fit into microSD slot). You can leave the rest in default.
+You can have it manufactured just by a few clicks and cheaply here: https://www.pcbway.com/project/shareproject/MicroSD_breakout_board.html
+
+You will also support me by using this service.
+
+Thanks!
+
+Sample
+-------------------
 ![JLCPCB order](img/sdbreakout-jlcpcb.png)
 
 
